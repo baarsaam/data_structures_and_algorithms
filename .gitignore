@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Tests and temp files (except for the test cases of unit testing).
+*_test.py
+tests/
